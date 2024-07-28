@@ -27,3 +27,4 @@ jobs:
           git add .
           git commit -m "📈 update profile stats"
           git push
+        fi
