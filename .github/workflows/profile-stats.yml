@@ -26,4 +26,4 @@ jobs:
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add .
           git commit -m "📈 update profile stats"
-          git push origin main
+          git push
