@@ -5,11 +5,11 @@ Bienvenue sur mon profil GitHub ! Voici quelques statistiques sur mon activité.
 ## Statistiques Générales
 
 - Âge du compte : **2** ans
-- Nombre de commits : **1187**
+- Nombre de commits : **1196**
 - Issues ouvertes : **6**
 - Pull requests soumises : **62**
 - Pull requests examinées : **148**
-- Étoiles reçues : **21**
+- Étoiles reçues : **18**
 - Nombre de dépôts : **86**
 - Dépôts auxquels j'ai contribué : **9**
 
