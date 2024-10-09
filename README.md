@@ -5,9 +5,9 @@ Bienvenue sur mon profil GitHub ! Voici quelques statistiques sur mon activité.
 ## Statistiques Générales
 
 - Âge du compte : **2** ans
-- Nombre de commits : **1447**
+- Nombre de commits : **1449**
 - Issues ouvertes : **8**
-- Pull requests soumises : **64**
+- Pull requests soumises : **65**
 - Pull requests examinées : **154**
 - Étoiles reçues : **11**
 - Nombre de dépôts : **473**
@@ -34,6 +34,5 @@ Bienvenue sur mon profil GitHub ! Voici quelques statistiques sur mon activité.
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B127%25)
 
 ## GitHub Streak
-
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ncherfaoui&theme=transparent&hide_border=true&fire=26A641&sideNums=26A641&currStreakNum=26A641&sideLabels=006D32&currStreakLabel=006D32&ring=0E4429&stroke=161B22&dates=629488)
